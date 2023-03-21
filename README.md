@@ -1,6 +1,6 @@
-# poetry_pypi_template
+# pydicom2nii
 
-> A minimal template for creating a pypi package using poetry and github actions
+> A simple tool for converting medical data in DICOM format to NIfTI using pure Python code
 
 This template allows the creation of python projects managed by poetry to be submitted to PyPi. All the github actions have been setup too. The github actions run tests on every push and also creates and new pacakage and pushes to the pypi when a merge happens to the release branch.
 
